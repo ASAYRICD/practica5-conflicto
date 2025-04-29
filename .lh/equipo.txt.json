@@ -1,0 +1,18 @@
+{
+    "sourceFile": "equipo.txt",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1745966053072,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1745966053072,
+            "name": "Commit-0",
+            "content": "Asayri (21070019)\r\n\r\nJonathan\r\n\r\nLuis\r\n\r\nJorge"
+        }
+    ]
+}
